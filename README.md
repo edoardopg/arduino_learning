@@ -40,6 +40,10 @@ Dos ejes controlados de forma independiente y simultánea. Base funcional de un 
 
 **Conceptos:** múltiples objetos Servo, múltiples entradas analógicas, control en tiempo real
 
+### 06 — Intermitentes para bicicleta
+Transmisor y receptor que se comunican para configurar luces led, proyecto final con impresión 3d.
+
+**Conceptos:** Comunicación de transmisores y receptores RF433
 ---
 
 ## Hardware usado
@@ -52,6 +56,7 @@ Dos ejes controlados de forma independiente y simultánea. Base funcional de un 
 - Botón pulsador
 - Protoboard
 - Cables jumper
+- Transmisores y receptores RF433
 
 ---
 
